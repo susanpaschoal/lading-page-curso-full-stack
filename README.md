@@ -6,7 +6,7 @@ Landing page moderna, responsiva e otimizada para conversão, desenvolvida para 
 
 Acesse a landing page online:
 
-👉 **(https://susanpaschoal.github.io/lading-page-curso-full-stack/)**
+👉 **([https://susanpaschoal.github.io/lading-page-curso-full-stack/](https://lading-page-curso-full-stack.vercel.app/))**
 ## 🔥 Tecnologias Utilizadas
 
 - HTML5
